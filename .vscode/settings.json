@@ -44,7 +44,8 @@
       "name": "project-words",
       "path": "${workspaceRoot}/dictionary.txt",
       "description": "Words used in this project",
-      "addWords": true
+      "addWords": true,
+      "someThing":1234567890123456
     },
     "custom": true, // Enable the `custom` dictionary
     "internal-terms": true // Disable the `internal-terms` dictionary
