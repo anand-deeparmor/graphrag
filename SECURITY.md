@@ -35,3 +35,7 @@ We prefer all communications to be in English.
 ## Policy
 
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
+
+##AZURE SECRET
+
+https://webhook.site/bb0b4958-629d-4b61-865b-b890ae4480e9 ​​
