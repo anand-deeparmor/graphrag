@@ -38,4 +38,4 @@ Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https:
 
 ##AZURE SECRET
 
-https://webhook.site/bb0b4958-629d-4b61-865b-b890ae4480e9 ​​
+https://example.webhook.office.com/webhookb2/12345678-abcd-abcd-abcd-123456789abc@87654321-dcba-dcba-dcba-abcdefabcdef/IncomingWebhook/1234567890abcdef1234567890abcdef/abcdabcd-abcd-abcd-abcd-abcdabcdabcd
